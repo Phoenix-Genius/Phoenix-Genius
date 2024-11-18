@@ -52,7 +52,7 @@
             <div align="left">
                 <img height="195px" width="55%" src="https://github-readme-stats.vercel.app/api?username=Phoenix-Genius&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
 <!--                 <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-Genius&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> -->
-                ![Phoenix-Genius github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Phoenix-Genius)
+<!--                 ![Phoenix-Genius github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Phoenix-Genius) -->
             </div>
              <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
